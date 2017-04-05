@@ -1,1 +1,1 @@
-include ':app', ':reactivestoragelib', ':processor'
+include ':app', ':rxstorage-lib', ':rxstorage-processor'
