@@ -1,5 +1,6 @@
 # RxStorage
 [![Release](https://jitpack.io/v/devsar/rxstorage.svg)](https://jitpack.io/#devsar/rxstorage)
+
 Android SharedPreferences wrapper that works with RxJava 2 through a simple annotation api
 
 # Installation
@@ -19,8 +20,8 @@ Add the RxStorage dependency and annotation processor to your module-level `buil
 ```gradle
 dependencies {
     ...
-    compile 'com.github.devsar.rxstorage:reactivestoragelib:x.y.z'
-    annotationProcessor 'com.github.devsar.rxstorage:processor:x.y.z'
+    compile 'com.github.devsar.rxstorage:rxstorage-lib:x.y.z'
+    annotationProcessor 'com.github.devsar.rxstorage:rxstorage-processor:x.y.z'
     ...
 }
 ```
