@@ -29,7 +29,6 @@ import javax.tools.JavaFileObject;
 
 
 @SupportedAnnotationTypes("com.devsar.android.rxstorage.Storage")
-@SupportedSourceVersion(SourceVersion.RELEASE_7)
 public class StorageProcessor extends AbstractProcessor {
 
     private AccessorBuilder accessorBuilder;
